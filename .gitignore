@@ -1,0 +1,22 @@
+# Immich media directories - exclude from git
+backups/
+library/
+thumbs/
+encoded-video/
+upload/
+profile/
+
+# Environment files with sensitive data
+.env
+.env.local
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
