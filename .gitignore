@@ -5,6 +5,7 @@ thumbs/
 encoded-video/
 upload/
 profile/
+postgres/
 
 # Environment files with sensitive data
 .env
